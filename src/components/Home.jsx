@@ -42,9 +42,7 @@ function Home() {
               ref={typedRef}
               className="typed"
               //   data-typed-items="Data Analyst, Problem Solver, Strategist, Tech Enthusiast"
-            >
-              Designer
-            </span>
+            ></span>
             <span
               className="typed-cursor typed-cursor--blink"
               aria-hidden="true"
