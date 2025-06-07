@@ -55,7 +55,7 @@ function Contact() {
                 >
                   <i className="bi bi-telephone flex-shrink-0"></i>
                   <div>
-                    <h3>Call Us</h3>
+                    <h3>Call Me</h3>
                     <p>+91-9660070886</p>
                   </div>
                 </div>
