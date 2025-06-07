@@ -114,7 +114,7 @@ function Contact() {
                       className="form-control"
                       name="email"
                       id="email-field"
-                      required=""
+                      required
                     />
                   </div>
 
@@ -127,7 +127,7 @@ function Contact() {
                       className="form-control"
                       name="subject"
                       id="subject-field"
-                      required=""
+                      required
                     />
                   </div>
 
@@ -140,7 +140,7 @@ function Contact() {
                       name="message"
                       rows="10"
                       id="message-field"
-                      required=""
+                      required
                     ></textarea>
                   </div>
                   {/* 
