@@ -57,7 +57,7 @@ function ProAchieve() {
                       href="https://github.com/Sh1khar7/Credit-Score-Classification"
                       target="_blank"
                     >
-                      Poject Link
+                      Project Link
                     </a>
                   </em>
                 </p>
